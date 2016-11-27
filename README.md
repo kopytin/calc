@@ -3,3 +3,7 @@ This is dumb calculator app which understands the typical syntax of a hardware c
 
 For example, -10 + (8 * 2.5) - (3 / 1,5) = 8.
 But it won't understand -10 + 8 * 2.5 - 3 / 1.5.
+
+Run "make all" to compile on Linux with gcc.
+test -- runs tests
+calc -- the calculator app.
